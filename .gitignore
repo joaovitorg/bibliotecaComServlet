@@ -1,8 +1,0 @@
-target/
-
-
-#netbeans
-nbproject/
-build.xml
-/dist/
-/build/
